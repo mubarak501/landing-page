@@ -134,6 +134,7 @@
   display: flex;
 
   justify-content: space-evenly;
+  flex-direction: column;
 }
 .phone p {
   margin: 20px;
